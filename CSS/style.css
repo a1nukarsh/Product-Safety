@@ -5,6 +5,10 @@
     margin: 0px;
     padding: 0px;
 }
+::selection {
+    color: black;
+    background: white;
+  }
 
 .container{
     padding: 100px;
